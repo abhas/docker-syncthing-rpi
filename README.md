@@ -1,12 +1,10 @@
 # docker-syncthing
 
-[![](http://dockeri.co/image/abhas/syncthing-armhf)](https://registry.hub.docker.com/u/abhas/syncthing-armhf/)
-
 Run syncthing from a docker container
 
 ## Install
 ```sh
-docker pull joeybaker/syncthing
+docker pull abhas/syncthing-armhf
 ```
 
 ## Usage
