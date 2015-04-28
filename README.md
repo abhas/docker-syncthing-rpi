@@ -1,6 +1,6 @@
 # docker-syncthing
 
-[![](http://dockeri.co/image/joeybaker/syncthing)](https://registry.hub.docker.com/u/joeybaker/syncthing/)
+[![](http://dockeri.co/image/abhas/syncthing-armhf)](https://registry.hub.docker.com/u/abhas/syncthing-armhf/)
 
 Run syncthing from a docker container
 
